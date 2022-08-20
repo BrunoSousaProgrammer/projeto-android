@@ -147,9 +147,11 @@
 
 
     main img.media{
-        margin: auto;
-        display: block;
         max-width: 730px;
+        display: block;
+        margin: auto;
+        
+        
     }
 
 
