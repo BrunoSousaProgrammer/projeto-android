@@ -144,6 +144,7 @@
     }
 
     main source.block{
+        max: width 350px;
         display:block;
         margin: auto;
     }
