@@ -142,6 +142,10 @@
         font-weight: bold;
         
     }
+    main picture{
+        display: block;
+        margin: auto;
+    }
 
     main img.block{
         min-width: width 350px;
