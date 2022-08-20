@@ -143,8 +143,8 @@
         
     }
 
-    main source.block{
-        max: width 350px;
+    main img.block{
+        min-width: width 350px;
         display:block;
         margin: auto;
     }
