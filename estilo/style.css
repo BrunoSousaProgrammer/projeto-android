@@ -143,6 +143,11 @@
         
     }
 
+    main img.block{
+        display:block;
+        margin: auto;
+    }
+
     main img.pequena{
         max-width: 350px;
         display: block;
