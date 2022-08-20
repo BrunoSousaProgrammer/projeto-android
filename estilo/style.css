@@ -149,11 +149,12 @@
         min-width: 808px;
     }
 
-    main img.block{
-        min-width: width 350px;
+    main img.pequenaa{
+        min-width: width 300px;
         display:block;
         margin: auto;
     }
+
 
     main img.pequena{
         max-width: 350px;
