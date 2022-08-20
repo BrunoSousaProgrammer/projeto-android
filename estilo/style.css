@@ -145,6 +145,8 @@
     main picture{
         display: block;
         margin: auto;
+        max-width: 350px;
+        min-width: 808px;
     }
 
     main img.block{
