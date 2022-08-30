@@ -45,6 +45,8 @@
         text-align: center;
         padding-top: 40px;
         display: block;
+        margin: auto;
+        
     }
     header > h1{
         color: white;
@@ -187,6 +189,7 @@
         text-align: center;
         font-size: 0.8em;
         padding: 5px;
+        margin: auto;
         
     }
     footer a{
